@@ -1,0 +1,16 @@
+PODS:
+  - YDProgressHUD (0.0.3)
+
+DEPENDENCIES:
+  - YDProgressHUD
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - YDProgressHUD
+
+SPEC CHECKSUMS:
+  YDProgressHUD: 667f1e66be7e9de1c940f826c777f1b82a559275
+
+PODFILE CHECKSUM: 6ffd27b5285776c9afe62cfe25be8d5c90ed639d
+
+COCOAPODS: 1.5.0
